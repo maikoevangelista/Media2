@@ -11,20 +11,32 @@ Assim como todos os problemas, não esqueça de imprimir o fim de linha após o 
 
  
 Exemplos de Entrada	Exemplos de Saída
+#
+
 5.0
+
 6.0
+
 7.0
 
 MEDIA = 6.3
 
+#
+
 5.0
+
 10.0
+
 10.0
 
 MEDIA = 9.0
 
+#
+
 10.0
+
 10.0
+
 5.0
 
 MEDIA = 7.5
